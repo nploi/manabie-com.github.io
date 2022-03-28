@@ -17,3 +17,6 @@ Before start, let me introduction to Playwright, and Flutter web.
 ### Flutter web
 
 ### Getting Started with Playwright and Flutter web Example
+
+- Create flutter web app:
+    
