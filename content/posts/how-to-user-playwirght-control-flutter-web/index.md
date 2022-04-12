@@ -18,5 +18,10 @@ Before start, let me introduction to Playwright, and Flutter web.
 
 ### Getting Started with Playwright and Flutter web Example
 
-- Create flutter web app:
-    
+- First, we need create flutter project.
+    ```
+    flutter create example
+    ```
+- Next create typescript project.
+    - Install playwright.
+    - 
